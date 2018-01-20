@@ -8,12 +8,14 @@ do
 		type = "virtual-signal",
 		name = "signal-radar-reporter-friendlies",
 		icon = "__folk-radar__/graphics/signals/radar-reporter-signal-friend.png",
+		icon_size = 32,
 		subgroup = "virtual-signal-number",
 		order = "radar-friendlies"
 	}, {
 		type = "virtual-signal",
 		name = "signal-radar-reporter-enemies",
 		icon = "__folk-radar__/graphics/signals/radar-reporter-signal-enemy.png",
+		icon_size = 32,
 		subgroup = "virtual-signal-number",
 		order = "radar-enemies"
 	}})

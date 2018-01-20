@@ -6,7 +6,8 @@ for _, radar in next, _G.data.raw.radar do
 			order = tostring(radar.max_distance_of_sector_revealed),
 			stack_size = 1,
 			flags = {"goes-to-quickbar", "hidden"},
-			icon = "__base__/graphics/icons/wooden-chest.png"
+			icon = "__base__/graphics/icons/wooden-chest.png",
+			icon_size = 32,
 		}
 		_G.data:extend({range})
 	end
