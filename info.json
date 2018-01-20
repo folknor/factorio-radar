@@ -1,6 +1,6 @@
 {
 	"name": "folk-radar",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"title": "Networked Radar",
 	"description": "Provides a control unit you can place next to radars that outputs the number of enemy and friendly units found in the radars permanent coverage area.",
 	"author": "folk",
